@@ -2,7 +2,7 @@
 
 ### [官网](http://www.hongsi-ic.com/)
 
-### [邮箱系统](/email)
+### [邮箱系统](https://mail.hongsi-ic.com/)
 
 ### [企业云](https://cloud.hongsi.work:40069/)
 
@@ -18,7 +18,7 @@
 
 `sftp/http/https port: 5022/5000/5001`
 
-### [VPN软件下载](/vpn)
+### [VPN软件下载](https://www.leagsoft.com/doc/article/103107.html)
 
 ### [CRM系统](http://crm.hongsi.work:9065/)
 
